@@ -18,6 +18,15 @@ public class MusicManager : MonoBehaviour
 		audioSource = GetComponent<AudioSource> ();
 		
 	}
+	
+	
+	public void changeVolume (float volume)
+	{
+		audioSource.volume = volume;
+	}
+	
+	
+	
 	// Update is called once per frame
 	void OnLevelWasLoaded (int level)
 	{
