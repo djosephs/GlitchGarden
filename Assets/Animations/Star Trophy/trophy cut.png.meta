@@ -4,6 +4,8 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: trophy top
     21300002: trophy base
+    21300004: Trophy top
+    21300006: Trophy base
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -45,7 +47,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: trophy top
+    - name: Trophy top
       rect:
         serializedVersion: 2
         x: 0
@@ -55,12 +57,12 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: trophy base
+    - name: Trophy base
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 37
+        width: 38
         height: 19
       alignment: 0
       pivot: {x: .5, y: .5}
